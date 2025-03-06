@@ -16,5 +16,14 @@
         "entry_time": 1741283533.1375608,
         "park_sirasi": 2,
         "otopark_kati": 1
+    },
+    {
+        "owner": "e",
+        "plate": "34HX123",
+        "car_type": "Otomobil",
+        "fuel_type": "Benzin",
+        "entry_time": 1741285542.2126176,
+        "park_sirasi": 3,
+        "otopark_kati": 1
     }
 ]
