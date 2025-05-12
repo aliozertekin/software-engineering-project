@@ -1,6 +1,6 @@
-# Otomark - Akıllı Otopark Yönetim Sistemi
+# AutoPark - Akıllı Otopark Yönetim Sistemi
 
-**Otomark**, kullanıcıların otopark durumlarını izlemelerini sağlayan bir otomasyon sistemidir. Flask ile geliştirilmiş bu proje, araç giriş-çıkışlarını kaydederek **otopark katı, park sırası, giriş saati ve ücret hesaplaması** gibi bilgileri sunmaktadır.
+**AutoPark**, kullanıcıların otopark durumlarını izlemelerini sağlayan bir otomasyon sistemidir. Flask ile geliştirilmiş bu proje, araç giriş-çıkışlarını kaydederek **otopark katı, park sırası, giriş saati ve ücret hesaplaması** gibi bilgileri sunmaktadır.
 
 ---
 
